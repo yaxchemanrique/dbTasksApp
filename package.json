@@ -1,0 +1,11 @@
+{
+  "name": "db-json",
+  "version": "1.0.0",
+  "description": "Fake db - JS Avanzado - 31 web a",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "author": "@YaxcheManrique",
+  "license": "ISC"
+}
